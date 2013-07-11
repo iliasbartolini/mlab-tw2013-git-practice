@@ -1,6 +1,6 @@
 this is our first file
 {
-This actuall the first one;
+This actual the first one;
 
 
 }
