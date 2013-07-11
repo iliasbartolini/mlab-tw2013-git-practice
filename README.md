@@ -19,5 +19,8 @@ adding more code here by Lee
 adding a new method(param1, param2){
 	return param1/param2;
 }
+more code Tony{
+	return more code
+}
 
 
