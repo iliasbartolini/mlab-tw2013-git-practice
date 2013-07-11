@@ -7,5 +7,9 @@ public class GitPractise{
 	
 	public void sayHello(){
 		System.out.println(this.msg);
+	}
+
+	public void myFirstEdit(){
+		System.out.println(this.msg);
 	}	
 }
