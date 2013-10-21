@@ -12,4 +12,8 @@ public class GitPractise{
 	public void myFirstEdit(){
 		System.out.println(this.msg);
 	}	
+	
+	public void gitTest(){
+		//do nothing
+	}
 }
