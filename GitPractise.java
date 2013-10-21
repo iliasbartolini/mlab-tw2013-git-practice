@@ -14,6 +14,6 @@ public class GitPractise{
 	}	
 	
 	public void gitTest(){
-		//do nothing
+		System.out.println("Something to print here");
 	}
 }
